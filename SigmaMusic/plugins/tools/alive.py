@@ -18,17 +18,17 @@ async def start(client: Client, message: Message):
                 text="🔮 ˹ Oᴡɴᴇʀ", url=f"https://t.me/IAM_B3SHARAM"
             ),
             InlineKeyboardButton(
-                text="❤‍🔥 ᴍᴇᴇᴛ ᴍᴇ", url=f"https://t.me/Shayri_Music_Lovers"
+                text="🔮 Mᴇᴇᴛ ᴍᴇ", url=f"https://t.me/Shayri_Music_Lovers"
             ),
         ],
                 [
             InlineKeyboardButton(
-                text="🇮🇳 ᴀʙᴏᴜᴛ ᴍᴇ", url=f"https://t.me/AbOuT_InNoCeNt"
+                text="🔮 Aʙᴏᴜᴛ ᴍᴇ", url=f"https://t.me/AbOuT_InNoCeNt"
             ),
                 ],
                 [
                     InlineKeyboardButton(
-                        "✯ ᴄʟᴏsᴇ ✯", callback_data="close"
+                        "✯ Cʟᴏsᴇ ✯", callback_data="close"
                     )
                 ],
             ]
